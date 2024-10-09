@@ -1,0 +1,35 @@
+conda install python=3.10 -y
+pip install tensorflow==2.10
+pip install pillow==9.5.0
+pip install scipy==1.9 pyparsing==2.3.1 python-dateutil==2.7
+conda install jupyter notebook -y
+pip install scikit-learn
+conda install spyder
+
+
+
+conda install python=3.10
+
+pip install tensorflow==2.10
+
+conda install jupyter notebook
+
+pip install pillow==9.5.0
+
+pip install scipy==1.9 pyparsing==2.3.1 python-dateutil==2.7
+
+
+
+install spyder
+
+pip install tensorflow --no-gpu
+
+pip install keras==2.3.1
+pip install imutils==0.5.3
+pip install numpy==1.18.2
+pip install opencv-python==4.2.0.*
+matplotlib==3.2.1
+argparse==1.1
+scipy==1.4.1
+
+pillow==7.2.0
